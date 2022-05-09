@@ -1,0 +1,13 @@
+1) ID
+2) Environment
+3) Project name
+4) Description 
+5) Build version 
+6) Module 
+7) Status 
+8) Author 
+9) Severity 
+10) Priority 
+11) Step to reproduce
+12) Actual result 
+13) Expected result 
